@@ -109,3 +109,4 @@ python sequnatial_project.py
 - **Inference Engine**: [Groq Cloud](https://groq.com/) (`ChatGroq`)
 - **Data Validation**: [Pydantic](https://docs.pydantic.dev/) & `typing.TypedDict`
 - **Environment Management**: `python-dotenv`
+
